@@ -1,0 +1,27 @@
+
+
+h1,h2  {
+    font-family: 'Arial', cursive;
+   
+}
+
+.navbar {
+    background-color: #c9b387;
+}
+
+.navbar-brand {
+    font-family: 'Arial', cursive;
+    color:white;
+  
+}
+
+
+
+
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-family: "Cabin", Arial, sans-serif;
+    color: #ffffff;
+    background-color: purple;
+}
